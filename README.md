@@ -1,2 +1,0 @@
-# DIGITAL-CLOCK
-made DIGITAL CLOCK in Python
